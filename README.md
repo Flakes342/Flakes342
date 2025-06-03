@@ -46,13 +46,6 @@ Python   ·   JavaScript   ·   Machine Learning   ·   Artificial Intelligence 
 </p>
 
 ---
-
-### 📝 Fun Fact
-
-I believe in the power of data to create smarter, more impactful solutions. When not crunching numbers, you'll find me exploring new tech or mentoring budding data enthusiasts!
-
----
-
 <!-- Let's connect icons can be added here in the future -->
 
 <p align="center">
