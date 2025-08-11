@@ -30,7 +30,7 @@ Python   ·   JavaScript   ·   Machine Learning   ·   Artificial Intelligence 
 
 ### 🌟 Featured Project
 
-- **BitBud**: My favorite project focused on leveraging AI and ML to create an 8-Bit Linux Based In-house AI assistant.
+- **Mitchi**: My favorite project focused on leveraging AI and ML to create a Linux Based in-house AI assistant.
 
 ---
 
