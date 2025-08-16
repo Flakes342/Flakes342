@@ -23,7 +23,7 @@
 ### 🚀 Skills
 
 ```python
-Python   ·   JavaScript   ·   Machine Learning   ·   Artificial Intelligence   ·  LLMs
+Python   ·   JavaScript   ·   Machine Learning   ·   Artificial Intelligence   ·  LLMs   ·   Mechanistic Interpretability 
 ```
 
 ---
