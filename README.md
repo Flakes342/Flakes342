@@ -11,12 +11,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🏢 **Senior Data Scientist at American Express**
-- 🎓 **Alumnus of IIT Delhi**
-- 🤖 Passionate about AI, Machine Learning, and Data Science
-- 🌱 Always learning more about ML/AI advancements and automated systems
+- **Senior Data Scientist at American Express**
+- **Alumnus of IIT Delhi**
+- Passionate about AI, Machine Learning, and Data Science
+- Always learning more about ML/AI advancements and automated systems
 
 ---
 
@@ -28,13 +28,13 @@ Python   ·   JavaScript   ·   Machine Learning   ·   Artificial Intelligence 
 
 ---
 
-### 🌟 Featured Project
+### Featured Project
 
 - **Mitchi**: My favorite project focused on leveraging AI and ML to create a Linux Based in-house AI assistant.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Flakes342&show_icons=true&theme=tokyonight" width="48%"/>-->
