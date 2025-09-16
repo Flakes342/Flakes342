@@ -23,14 +23,8 @@
 ### 🚀 Skills
 
 ```python
-Python   ·   Rust   ·   Machine Learning   ·   AI   ·  LLMs   ·   Mechanistic Interpretability 
+Python   ·   Rust   ·   Machine Learning   ·   AI Agents   ·  LLMs   ·   Mechanistic Interpretability 
 ```
-
----
-
-### Featured Projects
-
-- **Mitchi**: My favorite project focused on leveraging AI and ML to create a Linux Based in-house AI assistant.
 
 ---
 
