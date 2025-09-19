@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=flakes342&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=flakes342&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=flakes342&limit=3&theme=city_lights&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=flakes342&icon=3&color=12)](https://visitcount.itsvg.in)
