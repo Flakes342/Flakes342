@@ -1,5 +1,5 @@
 # About Me:
-- Senior Data Scientist at American Express<br>
+- Machine Learning Engineer at American Express<br>
 - Alumnus of IIT Delhi<br>
 - Passionate about AI, Machine Learning, and Data Science<br>
 - Always learning more about ML/AI advancements and automated systems
