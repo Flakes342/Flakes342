@@ -12,17 +12,11 @@
   <!-- GitHub Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=flakes342&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flakes342&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
 </div>
 
 <div align="center">
 <br></br>
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=flakes342&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-<br></br>
   <!-- Top Contributed Repo -->
   <img src="https://github-contributor-stats.vercel.app/api?username=flakes342&limit=3&theme=city_lights&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
